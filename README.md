@@ -1,6 +1,6 @@
 # Terminal
 A Terminal is a mini replica of Command Line tool which implemented Python programming language. 
-This Application is able to run 15 to 16 commands such as given below ;
+This application is able to run 15 to 16 commands such as given below ;
 
 1) cd <directory_name>       : To change directory 
 2) cd ..                     : To change directory one level up 
