@@ -20,4 +20,5 @@ This Application is able to run 15 to 16 commands such as given below ;
 16) grep <text> <file_name>  : Search for lines of text that match and outputs that lines 
 
 The following visual output will easily help to know about Terminal application with some of sample commands :
+
 ![op](https://user-images.githubusercontent.com/54701889/89557072-e4afa400-d82f-11ea-8f16-b213ca7416ac.png)
